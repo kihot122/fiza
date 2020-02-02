@@ -1,0 +1,10 @@
+*
+!*/
+
+!*.gitignore
+!*.cpp
+!*.h
+!*.a
+!*.png
+!*.dll
+!*.bat
